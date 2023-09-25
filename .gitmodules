@@ -1,0 +1,28 @@
+[submodule "smart_changover"]
+	path = smart_changover
+	url = https://github.com/thuan1091996/smart_changover.git
+[submodule "electric_fence"]
+	path = electric_fence
+	url = https://github.com/thuan1091996/FW_ElectricFence.git
+[submodule "system_programming"]
+	path = system_programming
+	url = https://github.com/thuan1091996/system_programming.git
+[submodule "platformio_stg0"]
+	path = platformio_stg0
+	url = https://github.com/thuan1091996/platformio_stg0.git
+[submodule "lsn50_lorawan_node_stm32"]
+	path = lsn50_lorawan_node_stm32
+	url = https://github.com/thuan1091996/LoRa_STM32.git
+[submodule "modern_embedded"]
+	path = modern_embedded
+	url = https://github.com/thuan1091996/ModernEmbed.git
+[submodule "food_dispenser"]
+	path = food_dispenser
+	url = https://github.com/thuan1091996/food_dispenser.git
+[submodule "stm32f0_projects"]
+	path = stm32f0_projects
+	url = https://github.com/thuan1091996/STM32F0_CUBEIDE.git
+[submodule "systemview_demo"]
+	path = systemview_demo
+	url = https://github.com/thuan1091996/Systemview_demo.git
+
