@@ -26,3 +26,6 @@
 	path = systemview_demo
 	url = https://github.com/thuan1091996/Systemview_demo.git
 
+[submodule "custom_dfu_stm32g0"]
+	path = custom_dfu_stm32g0
+	url = https://github.com/thuan1091996/custom_dfu_stm32g0.git
